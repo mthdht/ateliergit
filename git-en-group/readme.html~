@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>readme.html</title>
+<link rel="stylesheet" type="text/css" media="all" href="/home/mthdht/.emacs.d/elpa/mkdown-20140517.718/mkdown.css"  />
+</head>
+
+<body>
+
+<h1>Exercice en group</h1>
+
+<h2>Co-working</h2>
+
+<p>Le but de cet exercice est de s'entrainer à travailler à plusieurs.</p>
+
+<p>Dans ce but, je vous invite à cloner le repot <a href="https://github.com/mthdht/atelierGit">atelier git</a> sur github.</p>
+
+<p>une fois cloner, amuser vous à:</p>
+
+<ul>
+<li>modifier les fichiers</li>
+<li>créer des branches</li>
+<li>push</li>
+<li>pull</li>
+<li>merge</li>
+</ul>
+
+<blockquote>
+  <p>pour vous aider à demarrer, il y dejà des fichiers et des branches existantes.
+  Libres à vous, de les modifier, supprimer à votre guise.</p>
+</blockquote>
+
+</body>
+</html>
